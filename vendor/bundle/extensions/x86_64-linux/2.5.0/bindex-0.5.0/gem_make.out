@@ -1,0 +1,15 @@
+current directory: /home/bb/projects/capistrano_demo/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/usr/share/rvm/rubies/ruby-2.5.0/bin/ruby -r ./siteconf20180621-23731-5mgyl5.rb extconf.rb
+creating Makefile
+
+current directory: /home/bb/projects/capistrano_demo/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/bb/projects/capistrano_demo/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/bb/projects/capistrano_demo/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20180621-23731-3a79pv/bindex
